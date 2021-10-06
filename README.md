@@ -6,23 +6,20 @@ Welcome to the PML Workshop repository. We use this repository to disseminate th
 The repository consists of the following Jupyter Notebooks:
 
 ### [1_simple_logistic_regression.ipynb](https://github.com/PML-UCF/pml_workshops/blob/main/1_simple_logistic_regression.ipynb):
-- euler_example is a complete code implementation including the EulerIntegratorCell class, creation and training of the model as well as prediction on test data
-- euler_save_training trains the imported model on training data and saves the model weights 
-- euler_predict_only loads the model weights and predicts on test data
-- model contains the EulerIntegratorCell class, the Normalization layer and the create_model function
+- The simplest model: perceptron
+- The basis of backpropagation: forward and backward passes
+- Multilayer perceptron
+
 
 ### [2_PINN_sciann_Burgers.ipynb](https://github.com/PML-UCF/pml_workshops/blob/main/2_PINN_sciann_Burgers.ipynb):
-- runge_kutta_example is a complete implementation of a Runge-Kutta integrator including model training and prediction 
-- runge_kutta_save_training trains the trainable coefficients on the training data and saves the model weights
-- runge_kutts_predict_only loads the saved model weights and predicts on test data
-- model contains the RungeKuttaIntegratorCell class and the create_model function
+- Physics-informed neural networks
+- Basic concepts and formulation
+- Example using [SciANN](https://www.sciann.com)
 
 
 ### [3_hybrid_PINN.ipynb](https://github.com/PML-UCF/pml_workshops/blob/main/3_hybrid_PINN.ipynb):
-- runge_kutta_example is a complete implementation of a Runge-Kutta integrator including model training and prediction 
-- runge_kutta_save_training trains the trainable coefficients on the training data and saves the model weights
-- runge_kutts_predict_only loads the saved model weights and predicts on test data
-- model contains the RungeKuttaIntegratorCell class and the create_model function
+- Hybrid models combining physics-informed kernels and neural networks 
+- Cumulative damage example
 
 
 ## Further reading
