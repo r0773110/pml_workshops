@@ -1,6 +1,26 @@
 # Workshops by the Probabilistic Mechanics Laboratory
 Welcome to the PML Workshop repository. We use this repository to disseminate the results of our research and make them accessible to the broader scientific community.
 
+The repository consists of the following Jupyter Notebooks:
+
+### 1_simple_logistic_regression.ipynb:
+- euler_example is a complete code implementation including the EulerIntegratorCell class, creation and training of the model as well as prediction on test data
+- euler_save_training trains the imported model on training data and saves the model weights 
+- euler_predict_only loads the model weights and predicts on test data
+- model contains the EulerIntegratorCell class, the Normalization layer and the create_model function
+
+### 2_PINN_sciann_Burgers.ipynb:
+- runge_kutta_example is a complete implementation of a Runge-Kutta integrator including model training and prediction 
+- runge_kutta_save_training trains the trainable coefficients on the training data and saves the model weights
+- runge_kutts_predict_only loads the saved model weights and predicts on test data
+- model contains the RungeKuttaIntegratorCell class and the create_model function
+
+
+### 3_hybrid_PINN.ipynb:
+- runge_kutta_example is a complete implementation of a Runge-Kutta integrator including model training and prediction 
+- runge_kutta_save_training trains the trainable coefficients on the training data and saves the model weights
+- runge_kutts_predict_only loads the saved model weights and predicts on test data
+- model contains the RungeKuttaIntegratorCell class and the create_model function
 
 
 ### Journal papers
