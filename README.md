@@ -1,5 +1,3 @@
-# pml_workshops
-
 # Workshops by the Probabilistic Mechanics Laboratory
 Welcome to the PML Workshop repository. We use this repository to disseminate the results of our research and make them accessible to the broader scientific community.
 
