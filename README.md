@@ -3,7 +3,7 @@ Welcome to the PML Workshop repository. We use this repository to disseminate th
 
 The repository consists of the following Jupyter Notebooks:
 
-### 1_simple_logistic_regression.ipynb:
+### [1_simple_logistic_regression.ipynb](https://github.com/PML-UCF/pml_workshops/blob/main/1_simple_logistic_regression.ipynb):
 - euler_example is a complete code implementation including the EulerIntegratorCell class, creation and training of the model as well as prediction on test data
 - euler_save_training trains the imported model on training data and saves the model weights 
 - euler_predict_only loads the model weights and predicts on test data
