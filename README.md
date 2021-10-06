@@ -26,6 +26,8 @@ The repository consists of the following Jupyter Notebooks:
 
 If you are interested in applied machine learning, physics-informed neural networks, and hybrid models, you might consider the following list of papers:
 
+- F. A. C. Viana and A. K. Subramaniyan, "[A survey of Bayesian calibration and physics-informed neural networks in scientific modeling](https://link.springer.com/article/10.1007/s11831-021-09539-0)," Archives of Computational Methods in Engineering, Vol. 28 (5), pp. 3801-3830, 2021. (DOI: 10.1007/s11831-021-09539-0).
+
 - R. G. Nascimento and F. A. C. Viana, "[Cumulative damage modeling with recurrent neural networks](https://arc.aiaa.org/doi/full/10.2514/1.J059250)," AIAA Journal, Online First, 13 pages, 2020. (DOI: 10.2514/1.J059250).
 
 - A. Dourado and F. A. C. Viana, "[Physics-informed neural networks for missing physics estimation in cumulative damage models: a case study in corrosion fatigue](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4047173/1083614/Physics-informed-neural-networks-for-missing)," ASME Journal of Computing and Information Science in Engineering, Vol. 20 (6), 10 pages, 2020. (DOI: 10.1115/1.4047173).
